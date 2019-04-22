@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "冯翔"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,33 +9,33 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "人工智能教育实验室副教授Professor of Artificial Intelligence"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "华东师范大学", url = "www.ecnu.edu.cn" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "我的研究兴趣包括人工智能在教育中的应用，学习分析，学习平台等."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "dr.fengxiang@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
+  "Artificial Intelligence in Education",
+  "learning analitis",
   "Information Retrieval"
 ]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Researchers", "Visitors"]
+user_groups = ["研究人员", "交流访客"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "web教育应用设计与开发"
+  institution = "华东师范大学教育信息技术系"
   year = 2012
 
 [[education.courses]]
