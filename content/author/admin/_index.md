@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "人工智能教育实验室副教授Professor of Artificial Intelligence"
+role = "人工智能教育实验室副教授"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -36,17 +36,18 @@ user_groups = ["研究人员", "交流访客"]
 [[education.courses]]
   course = "web教育应用设计与开发"
   institution = "华东师范大学教育信息技术系"
-  year = 2012
+  year = 2019
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "人工智能+教育创新应用实践"
+  institution = "华东师范大学研究生院"
+
+  year = 2019
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "E-learning平台设计"
+  institution = "华东师范大学教育信息技术系"
+  year = 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -61,7 +62,7 @@ user_groups = ["研究人员", "交流访客"]
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
+  link = "https://twitter.com/meflyup"
 
 [[social]]
   icon = "google-scholar"
@@ -71,7 +72,7 @@ user_groups = ["研究人员", "交流访客"]
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  link = "https://github.com/meflyup"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -81,7 +82,5 @@ user_groups = ["研究人员", "交流访客"]
 #   link = "files/cv.pdf"
 
 +++
+冯翔：博士，副教授，硕士生导师，现供职于华东师范大学教育信息技术系和上海数字化教育装备工程技术研究中心，从事教育信息化方面的研究和服务工作，近年来主要关注人工智能教育应用。完成多项省部级信息化项目；发表SCI、EI、CSSCI等论文10余篇；获得软件著作权9项；获得授权发明专利1项；中国教育信息化技术标准专家库专家，国际期刊Data Science and Industrial Internet编委会成员，全球华人计算机教育应用大会GCCCE国际会议PC member。
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
