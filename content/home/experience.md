@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "上海"
   date_start = "2008-07"
   date_end = "2010-07"
-  description = """在上海贝尔两年博士后，主要作战略技术研究，以及概念验证系统开发"
+  description = """在上海贝尔两年博士后，主要作战略技术研究，以及概念验证系统开发
   Responsibilities include:
   
   * 分析
