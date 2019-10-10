@@ -17,28 +17,28 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
+[[公司经历]]
+  title = "战略技术研究员"
+  company = "上海贝尔阿尔卡特朗讯"
+  company_url = "http://www.nokia-sbell.com/"
+  location = "上海"
+  date_start = "2008-07"
+  date_end = "2010-07"
+  description = """在上海贝尔两年博士后，主要作战略技术研究，以及概念验证系统开发"
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * 分析
+  * 建模
+  * 开发
   """
 
-[[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+[[高校经历]]
+  title = "副研究员"
+  company = "华东师范大学"
+  company_url = "www.ecnu.edu.cn"
+  location = "上海"
+  date_start = "2010-07"
+  date_end = "至今"
+  description = """教育信息技术应用研究，目前主要关注人工智能教育应用，教育大数据分析，学习分析."""
 
 +++
