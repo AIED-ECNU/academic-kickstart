@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "上海贝尔阿尔卡特朗讯"
   company_url = "http://www.nokia-sbell.com/"
   location = "上海"
-  date_start = "2008-07"
-  date_end = "2010-07"
+  date_start = "2008-07-10"
+  date_end = "2010-07-11"
   description = """在上海贝尔两年博士后，主要作战略技术研究，以及概念验证系统开发
   Responsibilities include:
   
@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   company = "华东师范大学"
   company_url = "www.ecnu.edu.cn"
   location = "上海"
-  date_start = "2010-07"
+  date_start = "2010-07-11"
   date_end = "至今"
   description = """教育信息技术应用研究，目前主要关注人工智能教育应用，教育大数据分析，学习分析."""
 
