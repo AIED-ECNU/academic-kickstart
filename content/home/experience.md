@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   company_url = "www.ecnu.edu.cn"
   location = "上海"
   date_start = "2010-07-11"
-  date_end = "至今"
+  date_end = "2019-10-16"
   description = """教育信息技术应用研究，目前主要关注人工智能教育应用，教育大数据分析，学习分析."""
 
 +++
