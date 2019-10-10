@@ -17,7 +17,7 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[公司经历]]
+[[experience]]
   title = "战略技术研究员"
   company = "上海贝尔阿尔卡特朗讯"
   company_url = "http://www.nokia-sbell.com/"
@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   * 开发
   """
 
-[[高校经历]]
+[[experience]]
   title = "副研究员"
   company = "华东师范大学"
   company_url = "www.ecnu.edu.cn"
