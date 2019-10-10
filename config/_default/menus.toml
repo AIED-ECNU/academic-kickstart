@@ -19,17 +19,17 @@
   weight = 30
 
 [[main]]
-  name = "Publications"
+  name = "论文著作"
   url = "#featured"
   weight = 40
 
 [[main]]
-  name = "Tutorials"
+  name = "教程"
   url = "/tutorial/"
   weight = 50
 
 [[main]]
-  name = "Contact"
+  name = "联系"
   url = "#contact"
   weight = 60
 
