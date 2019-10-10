@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "证书"
 subtitle = ""
 
 # Date format
@@ -29,23 +29,35 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "deeplearning.ai"
+  organization_url = "https://deeplearning.ai"
+  title = "Neural Networks and Deep Learning"
+  url = "https://www.coursera.org/learn/neural-networks-deep-learning?"
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/S3JQVUX9Q2W8?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate"
+  date_start = "2017-08-16"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = ""
+
+[[item]]
+  organization = "deeplearning.ai"
+  organization_url = "https://deeplearning.ai"
+  title = "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
+  url = "https://www.coursera.org/learn/deep-neural-network?"
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/TNYD8C7H73GH?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate"
+  date_start = "2017-08-22"
+  date_end = ""
+  description = ""
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  organization = "deeplearning.ai"
+  organization_url = "https://deeplearning.ai"
+  title = "Structuring Machine Learning Projects"
+  url = "https://www.coursera.org/learn/machine-learning-projects?"
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/DWYN2XYBD9QV?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate"
+  date_start = "2017-08-25"
+  date_end = ""
   description = ""
+
+
 
 +++
