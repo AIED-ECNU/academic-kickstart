@@ -66,7 +66,7 @@ appointment_url = "https://calendly.com"
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/meflyup"},
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:meflyup?call"},
-  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
+  # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
@@ -88,8 +88,8 @@ contact_links = [
 #   3: OpenStreetMap (Mapbox)
 map = 3
 map_api_key = ""
-latitude = "37.4275"
-longitude = "-122.1697"
+latitude = "31.22883,"
+longitude = "121.40382"
 zoom = 15
 
 ############################
