@@ -88,8 +88,8 @@ contact_links = [
 #   3: OpenStreetMap (Mapbox)
 map = 3
 map_api_key = ""
-latitude = "31.22883,"
-longitude = "121.40382"
+latitude = "31.22887,"
+longitude = "121.40266"
 zoom = 15
 
 ############################
