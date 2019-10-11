@@ -23,9 +23,9 @@ email = "dr.fengxiang@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence in Education",
-  "learning analitis",
-  "Information Retrieval"
+  "教育信息化与教育服务软件",
+  "教育大数据与学习分析",
+  "人工智能教育应用"
 ]
 
 # Organizational groups that you belong to (for People widget)
