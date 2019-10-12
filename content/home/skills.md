@@ -17,19 +17,19 @@ subtitle = ""
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "R"
+  name = "机器学习&深度学习"
   description = "90%"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "r-project"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "教育信息技术"
+  description = "90%"  
   
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "软件设计与开发"
+  description = "90%"
 
 +++
