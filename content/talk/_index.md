@@ -1,5 +1,5 @@
 +++
-title = "Recent & Upcoming Talks"
+title = "最新 & 即将 演讲"
 
 # View.
 #   1 = List
