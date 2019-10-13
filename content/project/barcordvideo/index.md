@@ -1,8 +1,8 @@
 ---
-title: Internal Project
-summary: An example of using the in-built project page.
-tags:
-- Deep Learning
+title: 二维码点播系统
+summary: 上海市科委项目。同华东师范大学合作开发一套基于"互联网+教育"实践模式的线上线下结合的教辅系统.
+tags: 
+- 学业情绪
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

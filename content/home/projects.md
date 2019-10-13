@@ -26,12 +26,20 @@ subtitle = ""
      tag = "*"
   
    [[content.filter_button]]
-     name = "学生评教方面级学业情绪分析"
+     name = "人工智能教育应用"
      tag = "AIED"
-  
+   
    [[content.filter_button]]
-     name = "在线学习眼球追踪"
-     tag = "MOOC"
+     name = "学习系统"
+     tag = "学习系统"
+
+   [[content.filter_button]]
+     name = "教学研究"
+     tag = "Google"
+
+   [[content.filter_button]]
+     name = "在线学习"
+     tag = "慕课"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

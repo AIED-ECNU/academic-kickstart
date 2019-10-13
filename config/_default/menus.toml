@@ -25,7 +25,7 @@
 
 [[main]]
   name = "教程"
-  url = "/courses"
+  url = "courses/example/"
   weight = 50
 
 [[main]]

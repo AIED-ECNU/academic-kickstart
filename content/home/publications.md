@@ -67,5 +67,5 @@ subtitle = ""
 +++
 
 {{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+使用过滤器快速发现论文 [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
