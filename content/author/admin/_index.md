@@ -9,11 +9,11 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "人工智能教育实验室副教授"
+role = "人工智能教育应用实验室副研究员"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "华东师范大学", url = "www.ecnu.edu.cn" } ]
+organizations = [ { name = "华东师范大学", url = "https://www.ecnu.edu.cn" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "我的研究兴趣包括人工智能在教育中的应用，学习分析，学习平台等."
@@ -63,11 +63,6 @@ user_groups = ["研究人员", "交流访客"]
   icon = "twitter"
   icon_pack = "fab"
   link = "https://twitter.com/meflyup"
-
-[[social]]
-  icon = "google-scholar"
-  icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
 [[social]]
   icon = "github"
