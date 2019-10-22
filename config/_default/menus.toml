@@ -5,7 +5,7 @@
 
 [[main]]
   name = "主页"
-  url = "#about"
+  url = "/"
   weight = 10
 
 [[main]]
@@ -20,7 +20,7 @@
 
 [[main]]
   name = "论文著作"
-  url = "#featured"
+  url = "#publications"
   weight = 40
 
 [[main]]
@@ -32,6 +32,12 @@
   name = "联系"
   url = "#contact"
   weight = 60
+
+[[main]]
+  name = "合作与赞助"
+  url = "/donate/"
+  weight = 70
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
